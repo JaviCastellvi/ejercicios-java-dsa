@@ -1,4 +1,4 @@
-package edu.upc.eeta.dsa.javicastellvi.TCPnoConcurrente;
+package edu.upc.eetac.dsa.javicastellvi.TCPnoConcurrente;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
