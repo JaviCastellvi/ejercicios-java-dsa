@@ -1,4 +1,4 @@
-package edu.upc.eetac.edsa.javicastellvi.Interfaces;
+package edu.upc.eetac.dsa.javicastellvi.Interfaces;
 
 public class Circulo extends AbstractShape{
 
